@@ -3,7 +3,8 @@ WaterCoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/watercoin-project/watercoin.svg?branch=master)](https://travis-ci.org/watercoin-project/watercoin)
 
-https://watercoin.org
+https://wtrcoin.io
+DOWNLOAD WALLETS: https://github.com/carat-exchange/watercoin-source/releases
 
 What is WaterCoin?
 ----------------
@@ -15,7 +16,8 @@ out collectively by the network. WaterCoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the WaterCoin Core software, see [https://watercoin.org](https://watercoin.org).
+the WaterCoin Core software, see [https://wtrcoin.io](https://wtrcoin.io).
+
 
 License
 -------
